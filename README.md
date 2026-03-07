@@ -5,10 +5,11 @@
 ---
 
 ### 👨‍💻 Sobre Mim
+
 <p align="left">
-  * 🎓 **Formação:** Graduando em Sistemas de Informação (PUC Minas) & Técnico em Redes (CEFET-MG).
-  * 🚀 **Objetivo:** Estágio ou Jr em Desenvolvimento, Infraestrutura/Redes ou Segurança da Informação.
-  * 🛠️ **Foco Técnico:** Domínio em ambientes Linux, monitoramento de redes e lógica de programação (Java, JS, SQL, Python, C, C#).
+  🎓 <b>Educação:</b> Sistemas de Informação na <b>PUC Minas</b> & Técnico em Redes pelo <b>CEFET-MG</b>. <br>
+  🚀 <b>Objetivo:</b> Estágio ou Jr em Desenvolvimento, Infraestrutura/Redes ou Segurança da Informação. <br>
+  🛠️ <b>Foco Técnico:</b> Domínio em ambientes Linux, monitoramento de redes e lógica de programação (Java, JS, SQL, Python, C, C#).
 </p>
 
 ---
