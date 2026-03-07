@@ -6,10 +6,9 @@
 
 ### 👨‍💻 Sobre Mim
 <p align="left">
-  🎓 <b>Curso:</b> Sistemas de Informação na <b>PUC Minas</b><br>
-  <!-- 💻 <b>Foco:</b> <br>
-  📍 <b>Localização:</b> Brasil
-  -->
+  * 🎓 **Formação:** Graduando em Sistemas de Informação (PUC Minas) & Técnico em Redes (CEFET-MG).
+  * 🚀 **Objetivo:** Estágio ou Jr em Desenvolvimento, Infraestrutura/Redes ou Segurança da Informação.
+  * 🛠️ **Foco Técnico:** Domínio em ambientes Linux, monitoramento de redes e lógica de programação (Java, JS, SQL, Python, C, C#).
 </p>
 
 ---
