@@ -7,10 +7,54 @@
 ### 👨‍💻 Sobre Mim
 
 <p align="left">
-  🎓 <b>Educação:</b> Sistemas de Informação na <b>PUC Minas</b> & Técnico em Redes pelo <b>CEFET-MG</b>. <br>
-  🚀 <b>Objetivo:</b> Estágio ou Jr em Desenvolvimento, Infraestrutura/Redes ou Segurança da Informação. <br>
-  🛠️ <b>Foco Técnico:</b> Domínio em ambientes Linux, monitoramento de redes e lógica de programação (Java, JS, SQL, Python, C, C#).
+  🎓 <b>Graduando em Engenharia da Computação @ UFMG</b> <br>
+  🖧 <b>Técnico em Redes de Computadores @ CEFET-MG</b>
+  
+  Tenho formação técnica em **Redes de Computadores** e atualmente curso **Engenharia da Computação na Universidade Federal de Minas Gerais (UFMG)**.
+
+  Meu principal interesse está em **Redes de Computadores, Infraestrutura de TI e Segurança da Informação**, áreas nas quais venho desenvolvendo conhecimentos por meio da formação acadêmica e de projetos práticos.
+
+  Também possuo experiência acadêmica com **C, C#, Java, Python, JavaScript e SQL**, utilizando essas tecnologias no desenvolvimento de projetos e no estudo de fundamentos de programação, algoritmos, bancos de dados e computação.
+
+  Atualmente, busco oportunidades de **estágio em Redes, Infraestrutura de TI ou áreas relacionadas à Segurança da Informação**, com o objetivo de transformar meus conhecimentos acadêmicos em experiência prática e continuar desenvolvendo minha formação na área de Computação.
 </p>
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+
+#### 💻 Linguagens e Frameworks
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,java,python,html,css,js" />
+  </a>
+</div>
+
+#### 🗄️ Banco de Dados
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+</div>
+
+#### 🛠️ Ferramentas
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode" />
+  </a>
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+Aqui estão alguns dos projetos práticos que desenvolvi ao longo da minha formação:
+
+* 🖧 **[Projetos Python](https://github.com/Felipe-de-Carvalho-Andrade/Projetos-Python):** Implementações focadas em fundamentos de redes e segurança, incluindo um Port Scanner e comunicação cliente-servidor via Sockets TCP.
+* 🏗️ **[Infraestrutura](https://github.com/Felipe-de-Carvalho-Andrade/Infraestrutura):** Aplicação que une infraestrutura e desenvolvimento web para automatizar cálculos e estimativas de materiais em instalações de redes.
+* 🗄️ **[Laboratório de Banco de Dados (CEFET-MG)](https://github.com/Felipe-de-Carvalho-Andrade/CEFET-Laboratorio-Banco-de-Dados):** Estudos aprofundados em PostgreSQL, explorando modelagem relacional, PL/pgSQL, Triggers, Transações e controle de acesso (GRANT/REVOKE).
+* ☕ **[Laboratório de Linguagem de Programação (CEFET-MG)](https://github.com/Felipe-de-Carvalho-Andrade/CEFET-Linguagem-de-Programacao):** Repositório de projetos em Java com foco em POO, Estruturas de Dados, Algoritmos de ordenação e desenvolvimento de interfaces com JavaFX.
+* 🧩 **[Beecrowd & Algoritmos](https://github.com/Felipe-de-Carvalho-Andrade/Beecrowd):** Soluções para problemas de lógica e algoritmos utilizando diversas linguagens de programação.
 
 ---
 
@@ -46,24 +90,6 @@ TERMINA AQUI -->
 
 ---
 
-### ⚙️ Tecnologias e Ferramentas
-
-#### 💻 Linguagens e Frameworks
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,python,html,css,js,postgres" />
-  </a>
-</div>
-
-#### 🛠️ Ferramentas e SO
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode" />
-  </a>
-</div>
-
----
-
 ### 📬 Contato
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-de-carvalho-andrade-it" target="_blank">
@@ -77,15 +103,18 @@ TERMINA AQUI -->
   </a>
 </div>
 
----
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:0072FF&height=150&width=1000&section=footer"/>
 </p>
 <!--
 <br>
 <p align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Felipe-de-Carvalho-Andrade&color=blueviolet&style=flat-square&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Felipe-de-Carvalho-Andrade&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Felipe-de-Carvalho-Andrade?style=flat-square&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Felipe-de-Carvalho-Andrade?style=flat-square&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/badge/Public%20Repositories-8-blue?style=flat-square" alt="Public Repositories" />
 </p>
 -->
+
+---
+> 📌 Este perfil reúne projetos acadêmicos e pessoais desenvolvidos ao longo da minha formação. Utilizo o GitHub para documentar meu aprendizado, compartilhar projetos e acompanhar minha evolução na área de Computação.
